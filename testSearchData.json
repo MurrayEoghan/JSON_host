@@ -2,55 +2,55 @@
     {
       "title": "Salman Yurul",
       "description": "symarketing@mycit.ie",
-      "image": 21,
+      "image": "21",
       "price": [
           {
               "address": "Ballincollig",
-              "balance": 12582
+              "balance": "12582"
           }
       ]
     },
     {
       "title": "Bradley O' Connell",
       "description": "brad0c@gmail.com",
-      "image": 20,
+      "image": "20",
       "price": [
           {
               "address": "Ballincollig",
-              "balance": 3848
+              "balance": "3848"
           }
       ]
     },
     {
       "title": "Gary McCoombe",
       "description": "gary.meade.mccoombe@mycit.ie",
-      "image": 20,
+      "image": "20",
       "price": [
           {
               "address": "Carrigaline",
-              "balance": 984
+              "balance": "984"
           }
       ]
     },
     {
       "title": "Eoghan Murray",
       "description": "eoghan.murray@clearstream.com",
-      "image": 21,
+      "image": "21",
       "price": [
           {
               "address": "Rochestown",
-              "balance": 198
+              "balance": "198"
           }
       ]
     },
     {
       "title": "Tony Doran",
       "description": "td7@gmail.com",
-      "image": 19,
+      "image": "19",
       "price": [
           {
               "address": "Carrigaline",
-              "balance": 739
+              "balance": "739"
           }
       ]
     }
