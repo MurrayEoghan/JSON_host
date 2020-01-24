@@ -54,5 +54,82 @@
               "balance": "739"
           }
       ]
-    }
+    },
+    {
+        "title": "Sean O'Connell",
+        "description": "soc@mycit.ie",
+        "image": "20",
+        "price": [
+            {
+                "address": "Ballincollig",
+                "balance": "9843"
+            }
+           ]
+    },
+        {
+        "title": "Mert Halici",
+        "description": "merto7@mycit.ie",
+        "image": "19",
+        "price": [
+            {
+                "address": "Ballincollig",
+                "balance": "1039"
+            }
+           ]
+    },
+            {
+        "title": "Danny Buttimer",
+        "description": "butzy1234@gmail.com",
+        "image": "20",
+        "price": [
+            {
+                "address": "Carrigaline",
+                "balance": "24918"
+            }
+           ]
+    },
+            {
+        "title": "John Murray",
+        "description": "john.murray@iaa.ie",
+        "image": "59",
+        "price": [
+            {
+                "address": "Timoleague",
+                "balance": "38747"
+            }
+           ]
+    },
+            {
+        "title": "Elizabeth Dwyer",
+        "description": "lizdwyer09@gmail.com",
+        "image": "54",
+        "price": [
+            {
+                "address": "Rochestown",
+                "balance": "2099"
+            }
+           ]
+    },
+            {
+        "title": "Rory Dineen",
+        "description": "rory.dineen@mycit.ie",
+        "image": "21",
+        "price": [
+            {
+                "address": "Carrigaline",
+                "balance": "10139"
+            }
+           ]
+    },
+            {
+        "title": "Jordan Clarke",
+        "description": "jordan.clarke@legalshit.ie",
+        "image": "20",
+        "price": [
+            {
+                "address": "Douglas",
+                "balance": "4981"
+            }
+           ]
+    } 
   ]
