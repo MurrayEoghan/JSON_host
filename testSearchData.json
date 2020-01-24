@@ -3,7 +3,8 @@
       "title": "Salman Yurul",
       "description": "symarketing@mycit.ie",
       "image": "21",
-      "price": [
+      "price": 
+        [
           {
               "address": "Ballincollig",
               "balance": "12582"
