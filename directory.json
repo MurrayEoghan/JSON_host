@@ -1,0 +1,74 @@
+[
+    {
+        "ID": 48732347,
+        "FName": "Eoghan",
+        "LName": "Murray",
+        "Age": 20,
+        "Email": "eoghan.murray@clearstream.com" 
+    },
+    {
+        "ID": 59723412,
+        "FName": "Salman",
+        "LName": "Yurul",
+        "Age": 21,
+        "Email": "salman.yurul@mycit.ie"
+    },
+    {
+        "ID": 49823584,
+        "FName": "Gary",
+        "LName": "Meade McCoombe",
+        "Age": 20,
+        "Email": "gary.meade.mccoombe@mycit.ie"
+    },
+    {
+        "ID": 19874239,
+        "FName": "John",
+        "LName": "Murray",
+        "Age": 59,
+        "Email": "john.murray@iaa.ie"
+    },
+    {
+        "ID": 28745687,
+        "FName": "Liz",
+        "LName": "Dwyer",
+        "Age": 54,
+        "Email": "lizdwyer09@gmail.com"
+    },
+    {
+        "ID": 20384923,
+        "FName": "Danny",
+        "LName": "Buttimer",
+        "Age": 20,
+        "Email": "butzy1234@gmail.com"
+    },
+    {
+        "ID": 79328489,
+        "FName": "Tony",
+        "LName": "Doran",
+        "Age": 19,
+        "Email": "td7@gmail.com"
+    },
+    {
+        "ID": 14892348,
+        "FName": "Bradley",
+        "LName": "O' Connell",
+        "Age": 20,
+        "Email": "bradley09oc@mycit.ie" 
+    },
+    {
+        "ID": 49823489,
+        "FName": "Sean",
+        "LName": "Hogan",
+        "Age": 20,
+        "Email": "sean-hogan99@gmail.com"
+    },
+    {
+        "ID": 83891238,
+        "FName": "Mert",
+        "LName": "Halici",
+        "Age": 19,
+        "Email": "merto_turk@gmail.com"
+    }
+
+
+]
